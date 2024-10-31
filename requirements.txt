@@ -1,0 +1,13 @@
+# Interface utilisateur et serveur web
+streamlit==1.39.0
+
+# Traitement du langage naturel (NLP) avec Transformers
+transformers==4.46.1
+torch==2.5.1
+
+# Extraction de texte pour différents formats de fichiers
+pdfminer.six==20231228  # Pour l'extraction de texte PDF
+python-docx==1.1.2     # Pour l'extraction de texte Word
+python-pptx==1.0.2     # Pour l'extraction de texte PowerPoint
+pandas==2.2.2           # Pour la manipulation de données et les fichiers CSV
+
